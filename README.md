@@ -40,4 +40,4 @@ It showcases both *technical Excel proficiency* and *data storytelling*.
 ---
 
 
-![Dashboard Preview](HR Analytics.jpg)
+![HR Analytics](HR Analytics.jpg)
