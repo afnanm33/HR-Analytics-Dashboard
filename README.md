@@ -28,16 +28,9 @@ It helps HR teams and management monitor trends, identify imbalances between dep
 - Total payroll comparison  
 - Workforce distribution by department  
 
-## 📂 Files Included
-- HR.Analytics Dashboard.xlsx → Main Excel dashboard  
-- HR_Dataset.xlsx → Raw dataset used for analysis  
-- README.md → Project documentation  
-
 ##  About This Project
 This project was created as part of a data analytics learning journey to enhance Excel skills and demonstrate the ability to design interactive dashboards.  
 It showcases both *technical Excel proficiency* and *data storytelling*.  
 
 ---
 
-
-![HR Analytics](HR Analytics.jpg)
